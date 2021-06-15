@@ -1,0 +1,12 @@
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\bin\Debug\net5.0\EmployeeManager.Models.deps.json
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\bin\Debug\net5.0\EmployeeManager.Models.dll
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\bin\Debug\net5.0\ref\EmployeeManager.Models.dll
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\bin\Debug\net5.0\EmployeeManager.Models.pdb
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\obj\Debug\net5.0\EmployeeManager.Models.csprojAssemblyReference.cache
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\obj\Debug\net5.0\EmployeeManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\obj\Debug\net5.0\EmployeeManager.Models.AssemblyInfoInputs.cache
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\obj\Debug\net5.0\EmployeeManager.Models.AssemblyInfo.cs
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\obj\Debug\net5.0\EmployeeManager.Models.csproj.CoreCompileInputs.cache
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\obj\Debug\net5.0\EmployeeManager.Models.dll
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\obj\Debug\net5.0\ref\EmployeeManager.Models.dll
+E:\C#_20210418\!!!!_zbiorczy_C#\BLAZOR\EmployeeManager\EmployeeManager.Models\obj\Debug\net5.0\EmployeeManager.Models.pdb
